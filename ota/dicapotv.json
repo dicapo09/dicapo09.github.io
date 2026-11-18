@@ -1,0 +1,10 @@
+{
+  "packageName": "com.xuper.wiwyxuper",
+  "versionCode": 43700,
+  "versionName": "21.7",
+  "minSdk": 22,
+  "url": "https://dicapo09.github.io/releases/DicapoTV_21.7.apk",
+  "size": 48015843,
+  "sha256": "160e4e3b2953a4b4036e435eee70a4b48b6ac301d2e8aadf7ea360f7e6bf1dce",
+  "notes": "Cambio de canal con los números del control remoto y actualizaciones automáticas desde GitHub."
+}
