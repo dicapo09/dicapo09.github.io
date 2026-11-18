@@ -1,10 +1,10 @@
 {
   "packageName": "cl.dicapo.clima",
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "minSdk": 24,
-  "url": "https://dicapo09.github.io/releases/DicapoClima_1.1.apk",
-  "size": 328833,
-  "sha256": "84a82c685d23e1637271d41404727265546474127e8d08eeca28d7efc044129f",
-  "notes": "Pronóstico ECMWF 9 km, temperatura medida por la DMC y actualización automática."
+  "url": "https://dicapo09.github.io/releases/DicapoClima_1.2.apk",
+  "size": 329269,
+  "sha256": "a355c8637b07cec42c99c1d7eacfcd5bbb26b93be70724a676272cac948e3e80",
+  "notes": "Presión a nivel del mar, hora de la medición DMC en hora local y 'Ahora' con la temperatura medida."
 }
