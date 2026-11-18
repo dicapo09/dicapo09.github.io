@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43703,
-  "versionName": "22.0",
+  "versionCode": 43704,
+  "versionName": "22.1",
   "minSdk": 22,
-  "url": "https://dicapo09.github.io/releases/DicapoTV_22.0.apk",
+  "url": "https://dicapo09.github.io/releases/DicapoTV_22.1.apk",
   "size": 48069535,
-  "sha256": "b2c56a440a911e3b967329840f67df398b159a8d435cb423fdfc4579ce02b5da",
-  "notes": "Actualización automática activada. Canales nuevos en Chile: Radio Mágica Señal 2, CyG TV, RLO TV y Dodo TV."
+  "sha256": "71abe0e59676cf6e4bf3b5dff11de717e602ab92d108ad19062c1eff6ba94927",
+  "notes": "Canales, películas y series parten más rápido y suben solos a la mejor calidad."
 }
