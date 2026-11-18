@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43701,
-  "versionName": "21.8",
+  "versionCode": 43702,
+  "versionName": "21.9",
   "minSdk": 22,
-  "url": "https://dicapo09.github.io/releases/DicapoTV_21.8.apk",
-  "size": 48015843,
-  "sha256": "b65ab5f85fc79f3ce90c5a50ff695d0ff893555f495b7aff602331e1ae327a39",
-  "notes": "Se quitó la ventana de Login. Cambio de canal con números del control."
+  "url": "https://dicapo09.github.io/releases/DicapoTV_21.9.apk",
+  "size": 48065439,
+  "sha256": "f5ddfc9e637e4fb4b0f242773d6c62cc7c8aa2514e4bfc4a91daee0610062694",
+  "notes": "Nuevos canales en Chile: Radio Mágica Señal 2, CyG TV, RLO TV y Dodo TV."
 }
