@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43704,
-  "versionName": "22.1",
+  "versionCode": 43705,
+  "versionName": "22.2",
   "minSdk": 22,
-  "url": "https://dicapo09.github.io/releases/DicapoTV_22.1.apk",
+  "url": "https://dicapo09.github.io/releases/DicapoTV_22.2.apk",
   "size": 48069535,
-  "sha256": "71abe0e59676cf6e4bf3b5dff11de717e602ab92d108ad19062c1eff6ba94927",
-  "notes": "Canales, películas y series parten más rápido y suben solos a la mejor calidad."
+  "sha256": "7aff67d00a0671272bc1e071e63cd5ba8df15522523ec45d187b22e8ff877ff1",
+  "notes": "Vuelve al último canal visto. Canales, películas y series parten más rápido y suben solos a la mejor calidad."
 }
