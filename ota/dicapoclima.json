@@ -1,0 +1,10 @@
+{
+  "packageName": "cl.dicapo.clima",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "minSdk": 24,
+  "url": "https://dicapo09.github.io/releases/DicapoClima_1.1.apk",
+  "size": 328833,
+  "sha256": "84a82c685d23e1637271d41404727265546474127e8d08eeca28d7efc044129f",
+  "notes": "Pronóstico ECMWF 9 km, temperatura medida por la DMC y actualización automática."
+}
