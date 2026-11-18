@@ -10,6 +10,7 @@ apk, code, name = sys.argv[1], int(sys.argv[2]), sys.argv[3]
 notes = sys.argv[4] if len(sys.argv) > 4 else "Mejoras de Dicapo TV."
 here = os.path.dirname(os.path.abspath(__file__))
 fname = f"DicapoTV_{name}.apk"
+os.makedirs(os.path.join(here, "releases"), exist_ok=True)
 dst = os.path.join(here, "releases", fname)
 if os.path.abspath(apk) != dst:
     shutil.copyfile(apk, dst)
