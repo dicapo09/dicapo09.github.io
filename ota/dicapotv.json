@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43711,
-  "versionName": "22.8",
+  "versionCode": 43712,
+  "versionName": "22.9",
   "minSdk": 22,
-  "url": "https://dicapo09.github.io/releases/DicapoTV_22.8.apk",
+  "url": "https://dicapo09.github.io/releases/DicapoTV_22.9.apk",
   "size": 48069535,
-  "sha256": "8f3710a18227abfb242b816769197580bf6afbc4e9eb3fe405db50294a59f807",
-  "notes": "TVN 3 en calidad liviana (máx. 480p) para que no se pegue."
+  "sha256": "72bb7cbb0f1ccf976512ac67d63bc869415a1263b612d413074899e58d732f89",
+  "notes": "Se quitaron TV UCT Temuco y SUR TV del grupo Chile."
 }
