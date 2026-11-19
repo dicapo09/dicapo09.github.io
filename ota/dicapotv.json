@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43709,
-  "versionName": "22.6",
+  "versionCode": 43710,
+  "versionName": "22.7",
   "minSdk": 22,
-  "url": "https://dicapo09.github.io/releases/DicapoTV_22.6.apk",
+  "url": "https://dicapo09.github.io/releases/DicapoTV_22.7.apk",
   "size": 48069535,
-  "sha256": "6751ca3d59dfa633d10e52f8a004108a7d62167d546fd9ab6db6c10392936682",
-  "notes": "Búfer intermedio para canales en vivo: arranca más rápido y tras un corte reanuda en 3 s, con menos atraso acumulado."
+  "sha256": "c945e2af3f8bc3a985586549e1173a6a8a11df252bf6ccb2d87680bbd166dfbb",
+  "notes": "Ecualizador: nuevo modo Estadio para partidos y eventos en vivo."
 }
