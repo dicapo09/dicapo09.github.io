@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43708,
-  "versionName": "22.5",
+  "versionCode": 43709,
+  "versionName": "22.6",
   "minSdk": 22,
-  "url": "https://dicapo09.github.io/releases/DicapoTV_22.5.apk",
+  "url": "https://dicapo09.github.io/releases/DicapoTV_22.6.apk",
   "size": 48069535,
-  "sha256": "3586b964d7413c90fb061d2b7726158595af75f32ab5ca5eeb18dacc659acd72",
-  "notes": "Si el servidor está ocupado, reintenta solo en vez de mostrar 'Versión no compatible'. Guarda la lista de canales y la guía para abrir aunque el servidor tarde."
+  "sha256": "6751ca3d59dfa633d10e52f8a004108a7d62167d546fd9ab6db6c10392936682",
+  "notes": "Búfer intermedio para canales en vivo: arranca más rápido y tras un corte reanuda en 3 s, con menos atraso acumulado."
 }
