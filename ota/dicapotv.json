@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43707,
-  "versionName": "22.4",
+  "versionCode": 43708,
+  "versionName": "22.5",
   "minSdk": 22,
-  "url": "https://dicapo09.github.io/releases/DicapoTV_22.4.apk",
-  "size": 48065439,
-  "sha256": "e364251d2809d4e0b3d5e673a80051fb998421798066b66e1826d8ab1841549d",
-  "notes": "Nuevo enlace para CyG TV."
+  "url": "https://dicapo09.github.io/releases/DicapoTV_22.5.apk",
+  "size": 48069535,
+  "sha256": "3586b964d7413c90fb061d2b7726158595af75f32ab5ca5eeb18dacc659acd72",
+  "notes": "Si el servidor está ocupado, reintenta solo en vez de mostrar 'Versión no compatible'. Guarda la lista de canales y la guía para abrir aunque el servidor tarde."
 }
