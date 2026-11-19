@@ -1,10 +1,10 @@
 {
   "packageName": "cl.dicapo.clima",
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "minSdk": 24,
-  "url": "https://dicapo09.github.io/releases/DicapoClima_1.2.apk",
-  "size": 329269,
-  "sha256": "a355c8637b07cec42c99c1d7eacfcd5bbb26b93be70724a676272cac948e3e80",
-  "notes": "Presión a nivel del mar, hora de la medición DMC en hora local y 'Ahora' con la temperatura medida."
+  "url": "https://dicapo09.github.io/releases/DicapoClima_1.3.apk",
+  "size": 630625,
+  "sha256": "2d297ed1168f7741c331c59b428d2e41e1f6b2a62b821cc0288ceaae7798e186",
+  "notes": "Widget nuevo estilo reloj grande con iconos 3D: sol, nubes, lluvia, luna, nieve y tormenta."
 }
