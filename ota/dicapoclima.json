@@ -1,10 +1,10 @@
 {
   "packageName": "cl.dicapo.clima",
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "minSdk": 24,
-  "url": "https://dicapo09.github.io/releases/DicapoClima_1.4.apk",
+  "url": "https://dicapo09.github.io/releases/DicapoClima_1.5.apk",
   "size": 630665,
-  "sha256": "7c5e4ecd2e3fb4bfe394969e2acd5379b773e3d53033a8b9539f5cac90919bfc",
-  "notes": "Fecha como 'jueves, 19 de noviembre' y el estado del tiempo ya no se corta."
+  "sha256": "005249338ea47b099c9adbac797c140ad58a3e97dcb19cfbe74c383b002db847",
+  "notes": "El widget Reloj y clima 4x2 ahora se agrega a todo el ancho de la pantalla."
 }
