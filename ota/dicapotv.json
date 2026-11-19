@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43710,
-  "versionName": "22.7",
+  "versionCode": 43711,
+  "versionName": "22.8",
   "minSdk": 22,
-  "url": "https://dicapo09.github.io/releases/DicapoTV_22.7.apk",
+  "url": "https://dicapo09.github.io/releases/DicapoTV_22.8.apk",
   "size": 48069535,
-  "sha256": "c945e2af3f8bc3a985586549e1173a6a8a11df252bf6ccb2d87680bbd166dfbb",
-  "notes": "Ecualizador: nuevo modo Estadio para partidos y eventos en vivo."
+  "sha256": "8f3710a18227abfb242b816769197580bf6afbc4e9eb3fe405db50294a59f807",
+  "notes": "TVN 3 en calidad liviana (máx. 480p) para que no se pegue."
 }
