@@ -1,10 +1,10 @@
 {
   "packageName": "cl.dicapo.clima",
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "minSdk": 24,
-  "url": "https://dicapo09.github.io/releases/DicapoClima_1.5.apk",
-  "size": 630665,
-  "sha256": "005249338ea47b099c9adbac797c140ad58a3e97dcb19cfbe74c383b002db847",
-  "notes": "El widget Reloj y clima 4x2 ahora se agrega a todo el ancho de la pantalla."
+  "url": "https://dicapo09.github.io/releases/DicapoClima_1.6.apk",
+  "size": 642901,
+  "sha256": "6c8af39b40f11c60622677ed107c0c95a7df9c9fb78ccaf7ad76f393f6e2322c",
+  "notes": "Pantalla nueva: paisaje animado con el volcán Villarrica, lluvia y nieve en movimiento, actividades, radar, sol y luna."
 }
