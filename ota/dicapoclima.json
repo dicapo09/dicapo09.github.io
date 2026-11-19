@@ -1,10 +1,10 @@
 {
   "packageName": "cl.dicapo.clima",
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "minSdk": 24,
-  "url": "https://dicapo09.github.io/releases/DicapoClima_1.6.apk",
-  "size": 642901,
-  "sha256": "6c8af39b40f11c60622677ed107c0c95a7df9c9fb78ccaf7ad76f393f6e2322c",
-  "notes": "Pantalla nueva: paisaje animado con el volcán Villarrica, lluvia y nieve en movimiento, actividades, radar, sol y luna."
+  "url": "https://dicapo09.github.io/releases/DicapoClima_1.7.apk",
+  "size": 824474,
+  "sha256": "5f8dd9550b24f58bcc3f5461ee841e1c1ef3ffd6141aa6a211c1d8f76559fa12",
+  "notes": "Paisaje realista del volcán Villarrica con lago y bosque, nubes reales, lluvia más tenue e iconos más profesionales."
 }
