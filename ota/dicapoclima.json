@@ -1,10 +1,10 @@
 {
   "packageName": "cl.dicapo.clima",
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "1.8",
   "minSdk": 24,
-  "url": "https://dicapo09.github.io/releases/DicapoClima_1.7.apk",
-  "size": 824474,
-  "sha256": "5f8dd9550b24f58bcc3f5461ee841e1c1ef3ffd6141aa6a211c1d8f76559fa12",
-  "notes": "Paisaje realista del volcán Villarrica con lago y bosque, nubes reales, lluvia más tenue e iconos más profesionales."
+  "url": "https://dicapo09.github.io/releases/DicapoClima_1.8.apk",
+  "size": 846387,
+  "sha256": "7681c999d57c0baf4178e9b20acda15ec9dac06d69f8ccd1c082458d79157bf3",
+  "notes": "Luna realista con su fase como se ve desde Chile, y arreglos de pantalla."
 }
