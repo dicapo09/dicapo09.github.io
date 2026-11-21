@@ -1,0 +1,10 @@
+{
+  "packageName": "cl.dicapo.minera",
+  "versionCode": 1,
+  "versionName": "1.0.1",
+  "minSdk": 26,
+  "url": "https://dicapo09.github.io/releases/DicapoMinera_1.0.1.apk",
+  "size": 2616125,
+  "sha256": "790b9719428090240951118d367a7ee2cf9cd9e7ec14d356ef66c162ff8939f8",
+  "notes": "Add GitHub Actions workflow for APK build and release"
+}
