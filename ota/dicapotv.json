@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43712,
-  "versionName": "22.9",
+  "versionCode": 43713,
+  "versionName": "22.10",
   "minSdk": 22,
-  "url": "https://dicapo09.github.io/releases/DicapoTV_22.9.apk",
-  "size": 48069535,
-  "sha256": "72bb7cbb0f1ccf976512ac67d63bc869415a1263b612d413074899e58d732f89",
-  "notes": "Se quitaron TV UCT Temuco y SUR TV del grupo Chile."
+  "url": "https://dicapo09.github.io/releases/DicapoTV_22.10.apk",
+  "size": 48868983,
+  "sha256": "304d2cf000912f4d195c221ccd62bbd924bcb2248f31ce0e1813a1167e71fdf5",
+  "notes": "Canales de Chile primero también en las listas de eventos y del servidor."
 }
