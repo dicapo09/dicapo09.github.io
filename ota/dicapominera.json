@@ -1,10 +1,10 @@
 {
   "packageName": "cl.dicapo.minera",
-  "versionCode": 5,
-  "versionName": "1.0.5",
+  "versionCode": 6,
+  "versionName": "1.0.6",
   "minSdk": 26,
-  "url": "https://dicapo09.github.io/releases/DicapoMinera_1.0.5.apk",
-  "size": 2781817,
-  "sha256": "42fc2a1f61974f7bd6b896dc4459f4c742c213ee6e24206b1c4fe98ab7234b1c",
-  "notes": "Corrige referencia a java.io.File en Gradle"
+  "url": "https://dicapo09.github.io/releases/DicapoMinera_1.0.6.apk",
+  "size": 2781813,
+  "sha256": "5d1f504a9917997e3a718a1901a607e2d7288dc135df0fb42ca42b5c7bf2d1f6",
+  "notes": "Agrega verificación (lint y pruebas) antes de compilar y publicar el APK"
 }
