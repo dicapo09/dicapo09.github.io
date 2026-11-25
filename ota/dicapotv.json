@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43714,
-  "versionName": "22.11",
+  "versionCode": 43715,
+  "versionName": "22.12",
   "minSdk": 22,
-  "url": "https://dicapo09.github.io/releases/DicapoTV_22.11.apk",
+  "url": "https://dicapo09.github.io/releases/DicapoTV_22.12.apk",
   "size": 48868983,
-  "sha256": "ba94d096f55dcc8f36164259b3c884c6b2c9a428eeeec6fe4269e799fec8e66d",
-  "notes": "Se quitaron Zyoon TV y Surfer TV."
+  "sha256": "e3874c155ef9975a9cc9e29dc6f83e22a8d4308a87876c994ecf22540b4ade00",
+  "notes": "Canales de Chile solo en su carpeta, como en la 22.7."
 }
