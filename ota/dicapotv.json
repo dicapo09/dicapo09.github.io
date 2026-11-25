@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43715,
-  "versionName": "22.12",
+  "versionCode": 43716,
+  "versionName": "22.13",
   "minSdk": 22,
-  "url": "https://dicapo09.github.io/releases/DicapoTV_22.12.apk",
+  "url": "https://dicapo09.github.io/releases/DicapoTV_22.13.apk",
   "size": 48868983,
-  "sha256": "e3874c155ef9975a9cc9e29dc6f83e22a8d4308a87876c994ecf22540b4ade00",
-  "notes": "Canales de Chile solo en su carpeta, como en la 22.7."
+  "sha256": "e3a60ee4eb5ac5f74ec62e9541f5e7cca44d529be94ee5eea87ea5836151e8f7",
+  "notes": "Colores más vivos y más contraste en el video. TVN 3 sigue en 480p."
 }
