@@ -1,10 +1,10 @@
 {
   "packageName": "cl.dicapo.tvpro",
-  "versionCode": 12,
-  "versionName": "1.0.12",
+  "versionCode": 13,
+  "versionName": "1.0.13",
   "minSdk": 23,
-  "url": "https://dicapo09.github.io/releases/DicapoTVPro_1.0.12.apk",
-  "size": 4485457,
-  "sha256": "8376e64ef1e694c48a7092bc19a82073054f4112aa22d405976f9a5455e0cf6c",
-  "notes": "Los canales de TV conectan un poco antes y se muestra el número de intento."
+  "url": "https://dicapo09.github.io/releases/DicapoTVPro_1.0.13.apk",
+  "size": 4486463,
+  "sha256": "acbd272fcbf6d2cfa0141802cc96d0852a07847cf6bbc31700311a98596af721",
+  "notes": "Nuevos canales de cine en favoritos."
 }
