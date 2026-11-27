@@ -13,3 +13,9 @@ git add -A && git commit -m "Dicapo TV 21.8" && git push
 ```
 
 Conviene borrar de `releases/` las APK viejas para no llenar el sitio (límite 1 GB).
+
+## Dicapo TV Pro
+
+- `ota/dicapotvpro.json` y `releases/DicapoTVPro_X.apk` (desde la 1.0.10).
+- La APK publicada nunca lleva listas con usuario y contraseña.
+- Va firmada con la llave del proyecto Dicapo TV Pro, no con `dicapo.keystore`.

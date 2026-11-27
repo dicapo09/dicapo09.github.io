@@ -1,0 +1,10 @@
+{
+  "packageName": "cl.dicapo.tvpro",
+  "versionCode": 10,
+  "versionName": "1.0.10",
+  "minSdk": 23,
+  "url": "https://dicapo09.github.io/releases/DicapoTVPro_1.0.10.apk",
+  "size": 4485074,
+  "sha256": "58c1578ed79b7e6ead0475855eab8c7049488b42863c8e9228ef459e14446cec",
+  "notes": "Aviso de actualización, más favoritos y canales que cargan y se reconectan mejor."
+}
