@@ -1,10 +1,10 @@
 {
   "packageName": "cl.dicapo.tvpro",
-  "versionCode": 13,
-  "versionName": "1.0.13",
+  "versionCode": 14,
+  "versionName": "1.0.14",
   "minSdk": 23,
-  "url": "https://dicapo09.github.io/releases/DicapoTVPro_1.0.13.apk",
-  "size": 4486463,
-  "sha256": "acbd272fcbf6d2cfa0141802cc96d0852a07847cf6bbc31700311a98596af721",
-  "notes": "Nuevos canales de cine en favoritos."
+  "url": "https://dicapo09.github.io/releases/DicapoTVPro_1.0.14.apk",
+  "size": 4487871,
+  "sha256": "df2e465707a539db107a220e49720720c0e0767b4cba8e0af4b4359a5cb4f62d",
+  "notes": "Nuevas radios de Chile y Argentina en favoritos."
 }
