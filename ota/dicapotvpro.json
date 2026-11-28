@@ -1,10 +1,10 @@
 {
   "packageName": "cl.dicapo.tvpro",
-  "versionCode": 16,
-  "versionName": "1.0.16",
+  "versionCode": 17,
+  "versionName": "1.0.17",
   "minSdk": 23,
-  "url": "https://dicapo09.github.io/releases/DicapoTVPro_1.0.16.apk",
-  "size": 4489395,
-  "sha256": "4083f1afc89522da515ca77c85a74f7c015478b82833d87ad6212dd2e4855dc3",
-  "notes": "Orden de favoritos: Radio Power queda con las radios."
+  "url": "https://dicapo09.github.io/releases/DicapoTVPro_1.0.17.apk",
+  "size": 4489955,
+  "sha256": "2571f18bc57affe0a695324b645edaa9828e4a0d583a7f19fbee273c0f91e22c",
+  "notes": "Cinco radios nuevas de Chile y Argentina en favoritos."
 }
