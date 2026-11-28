@@ -1,10 +1,10 @@
 {
   "packageName": "cl.dicapo.tvpro",
-  "versionCode": 14,
-  "versionName": "1.0.14",
+  "versionCode": 15,
+  "versionName": "1.0.15",
   "minSdk": 23,
-  "url": "https://dicapo09.github.io/releases/DicapoTVPro_1.0.14.apk",
-  "size": 4487871,
-  "sha256": "df2e465707a539db107a220e49720720c0e0767b4cba8e0af4b4359a5cb4f62d",
-  "notes": "Nuevas radios de Chile y Argentina en favoritos."
+  "url": "https://dicapo09.github.io/releases/DicapoTVPro_1.0.15.apk",
+  "size": 4488650,
+  "sha256": "f7e232decf3b0b99824053be357c653f0b2af32a21d2c20081c70759e583000d",
+  "notes": "Radios juntas en favoritos y se agrega Radio Universal."
 }
