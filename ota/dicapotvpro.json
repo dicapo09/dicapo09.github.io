@@ -1,10 +1,10 @@
 {
   "packageName": "cl.dicapo.tvpro",
-  "versionCode": 15,
-  "versionName": "1.0.15",
+  "versionCode": 16,
+  "versionName": "1.0.16",
   "minSdk": 23,
-  "url": "https://dicapo09.github.io/releases/DicapoTVPro_1.0.15.apk",
-  "size": 4488650,
-  "sha256": "f7e232decf3b0b99824053be357c653f0b2af32a21d2c20081c70759e583000d",
-  "notes": "Radios juntas en favoritos y se agrega Radio Universal."
+  "url": "https://dicapo09.github.io/releases/DicapoTVPro_1.0.16.apk",
+  "size": 4489395,
+  "sha256": "4083f1afc89522da515ca77c85a74f7c015478b82833d87ad6212dd2e4855dc3",
+  "notes": "Orden de favoritos: Radio Power queda con las radios."
 }
